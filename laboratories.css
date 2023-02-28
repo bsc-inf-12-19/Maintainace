@@ -7,6 +7,10 @@ form{
     align-items: center;
     align-content: center;
 }
+.a{
+    color:white;
+    text-decoration: none;
+}
 h1{
     color: darkblue;
     text-align: center;

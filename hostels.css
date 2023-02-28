@@ -25,6 +25,10 @@ input{
     border-radius: 3px;
     border: none;
 }
+.a{
+    color:white;
+    text-decoration: none;
+}
 select{
     width: 200px;
     border: none;

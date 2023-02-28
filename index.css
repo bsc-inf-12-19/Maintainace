@@ -4,8 +4,8 @@ h2{
     font-family:Arial, Helvetica, sans-serif;
 }
 body{
-    margin: 0;
-    padding: 0;
+    margin: 5px;
+    padding: 5px;
     background-color: rgb(191, 183, 183);
 }
 img{
@@ -42,13 +42,14 @@ img{
     height:100px;
     border-radius: 15px;
     background-color: gray;
+    border-style: double;
 }
 a{
     margin-top: 20px;
     text-decoration: none;
 }
 fieldset{
-    border: none;
+     border:none;
 }
 h1{
     color: darkblue;
