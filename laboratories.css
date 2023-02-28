@@ -38,3 +38,10 @@ button{
     border: none;
     border-radius:5px;
 }
+select{
+    width: 200px;
+    border: none;
+    height: 35px;
+    color:blue;
+    border-radius: 3px; 
+}
