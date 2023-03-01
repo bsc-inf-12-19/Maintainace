@@ -27,6 +27,10 @@ input{
     border-radius: 3px;
     border: none;
 }
+.img1{
+    height:20px;
+    width:20px;
+}
 ::placeholder{
     text-align: center;
 }

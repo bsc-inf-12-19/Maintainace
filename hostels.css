@@ -25,6 +25,10 @@ input{
     border-radius: 3px;
     border: none;
 }
+.img1{
+    height:20px;
+    width:20px;
+}
 .a{
     color:white;
     text-decoration: none;
