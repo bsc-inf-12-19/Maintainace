@@ -15,7 +15,8 @@ img{
 p{
     margin-left: 5px;
     color:darkblue;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+    font-family:'Times New Roman', Times, serif;
 }
 h5{
     font-size: 16px;
