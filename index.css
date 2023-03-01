@@ -37,7 +37,11 @@ img{
 }
 .img1{
     height:25px;
-    width:25px;
+    width:25px
+}
+.img2{
+    height:50px;
+    width:50px
 }
 .i1{
     text-align: center;
