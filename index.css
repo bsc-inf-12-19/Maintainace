@@ -13,9 +13,9 @@ img{
     width: 50px;
 }
 p{
-    margin-left: 5px;
+    margin-left: 12px;
+    text-align: center;
     color:darkblue;
-    text-decoration: underline;
     font-family:'Times New Roman', Times, serif;
 }
 h5{
@@ -48,7 +48,7 @@ img{
     text-align: center;
     padding-top: 50px;
     margin-top: 10px;
-    height:100px;
+    height:65px;
     border-radius: 15px;
     background-color: gray;
     border-style: double;
