@@ -49,9 +49,9 @@ img{
     padding-top: 50px;
     margin-top: 10px;
     height:65px;
-    border-radius: 15px;
+    border-radius: 20px;
     background-color: gray;
-    border-style: double;
+    border-style:groove;
 }
 a{
     margin-top: 20px;
