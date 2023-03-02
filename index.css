@@ -59,6 +59,10 @@ a{
 }
 fieldset{
      border:none;
+     margin-left: -35px;
+}
+legend{
+    text-align: center;
 }
 h1{
     color: darkblue;
