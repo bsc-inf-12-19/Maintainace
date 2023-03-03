@@ -53,6 +53,9 @@ img{
     background-color: gray;
     border-style:groove;
 }
+ul li:hover{
+    background-color:blue;
+}
 a{
     margin-top: 20px;
     text-decoration: none;
